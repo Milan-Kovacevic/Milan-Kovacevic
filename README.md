@@ -1,5 +1,5 @@
 <!--### Hi there 👋-->
-![](https://giphy.com/gifs/nba-funny-8L1ujYNdNCS8EAe6Pg)
+![](https://giphy.com/gifs/nba-funny-8L1ujYNdNCS8EAe6Pg.gif)
 <!--
 **Milan-Kovacevic/Milan-Kovacevic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
